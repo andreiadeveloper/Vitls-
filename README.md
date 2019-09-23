@@ -18,7 +18,7 @@ Hello I am **Andreia Sarmento** and this is a simple test to demonstrate skills 
 
 > find the file **index.html** and drag and drop in any browser
 or
-> go to the link [juicy-whip.surge.sh](juicy-whip.surge.sh)
+> go to the link [http://juicy-whip.surge.sh/](juicy-whip.surge.sh)
 
 ## Notes:
 - Navigation should work for mobile and desktop and includes a stick mode.
