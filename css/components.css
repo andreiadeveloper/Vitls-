@@ -1,0 +1,55 @@
+/* ******************************************
+Table of content:
+-----
+  1- Utility classes
+  2- Containers
+****************************************** */
+
+
+/*  1- Utility classes
+   ************************************************************************************ */
+
+.no-margin {
+  margin: 0;
+}
+
+.extra-margin {
+  margin-bottom: 3rem;
+}
+
+.screen-reader {
+  position: absolute;
+  opacity: 0;
+}
+
+@media (max-width: 991px) {
+  .center-sm {
+    text-align: center
+  }
+  .center-sm  > img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/*  2- Containers
+   ************************************************************************************ */
+
+.product-container {
+  padding-top: 7rem;
+  padding-bottom: 6.5rem;
+}
+
+.service-details {
+  background-color: #fbf5e5;
+}
+
+.service-details__step {
+  text-align: center;
+  height: 100%;
+}
+
+.service-details__step img {
+  height: 9.2rem;
+  width: auto;
+}
